@@ -19,7 +19,7 @@ int main()
 		
 	}
 
-		printf("Suma este %d \n",sum);
+	printf("Suma este %d \n",sum);
 
 	return 0;
 }
